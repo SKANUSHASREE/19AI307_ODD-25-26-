@@ -58,7 +58,6 @@ public class main{
 ## OUTPUT:
 <img width="1211" height="708" alt="image" src="https://github.com/user-attachments/assets/88afdbfe-6c6b-4e0e-8a1e-27788edda5cf" />
 
-
-
 ## RESULT:
+Thus the program is successfully executed.
 
